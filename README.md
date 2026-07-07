@@ -9,7 +9,10 @@
 
 | Overview | Attrition Drivers | Compensation |
 |----------|------------------|--------------|
-| ![Overview](screenshots/overview.png) | ![Attrition Drivers](screenshots/attrition_drivers.png) | ![Compensation](screenshots/compensation.png) |
+| ![Overview]<img width="608" height="329" alt="image" src="https://github.com/user-attachments/assets/f512580d-9a3d-4194-bd1f-bbab4505e9ed" />
+| ![Attrition Drivers]<img width="608" height="341" alt="image" src="https://github.com/user-attachments/assets/62746fd7-ae2b-40ff-b723-4eadf4f89cff" />
+ | ![Compensation]<img width="609" height="338" alt="image" src="https://github.com/user-attachments/assets/6961a37e-7a48-4b2c-9cde-6d48b4706880" />
+ |
 
 ---
 
